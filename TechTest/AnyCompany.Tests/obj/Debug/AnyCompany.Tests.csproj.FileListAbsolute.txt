@@ -1,0 +1,13 @@
+C:\Investec\TechTestC-\TechTest\AnyCompany.Tests\bin\Debug\AnyCompany.Tests.pdb
+C:\Investec\TechTestC-\TechTest\AnyCompany.Tests\obj\Debug\AnyCompany.Tests.csproj.AssemblyReference.cache
+C:\Investec\TechTestC-\TechTest\AnyCompany.Tests\obj\Debug\AnyCompany.Tests.csproj.CoreCompileInputs.cache
+C:\Investec\TechTestC-\TechTest\AnyCompany.Tests\obj\Debug\AnyCompany.Tests.pdb
+C:\Investec\TechTestC-\TechTest\AnyCompany.Tests\bin\Debug\AnyCompany.dll
+C:\Investec\TechTestC-\TechTest\AnyCompany.Tests\bin\Debug\AnyCompany.pdb
+C:\Investec\TechTestC-\TechTest\AnyCompany.Tests\obj\Debug\AnyCompany.Tests.csproj.CopyComplete
+C:\Investec\TechTestC-\TechTest\AnyCompany.Tests\bin\Debug\AnyCompany.Tests.dll
+C:\Investec\TechTestC-\TechTest\AnyCompany.Tests\bin\Debug\Microsoft.VisualStudio.TestTools.UITest.Extension.dll
+C:\Investec\TechTestC-\TechTest\AnyCompany.Tests\bin\Debug\Microsoft.VisualStudio.Interop.dll
+C:\Investec\TechTestC-\TechTest\AnyCompany.Tests\bin\Debug\Microsoft.VisualStudio.Imaging.Interop.14.0.DesignTime.dll
+C:\Investec\TechTestC-\TechTest\AnyCompany.Tests\bin\Debug\AnyCompany.dll.config
+C:\Investec\TechTestC-\TechTest\AnyCompany.Tests\obj\Debug\AnyCompany.Tests.dll

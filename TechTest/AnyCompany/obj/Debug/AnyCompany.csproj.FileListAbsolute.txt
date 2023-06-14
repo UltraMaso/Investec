@@ -1,0 +1,7 @@
+C:\Investec\TechTestC-\TechTest\AnyCompany\bin\Debug\AnyCompany.dll
+C:\Investec\TechTestC-\TechTest\AnyCompany\bin\Debug\AnyCompany.pdb
+C:\Investec\TechTestC-\TechTest\AnyCompany\obj\Debug\AnyCompany.csproj.AssemblyReference.cache
+C:\Investec\TechTestC-\TechTest\AnyCompany\obj\Debug\AnyCompany.csproj.CoreCompileInputs.cache
+C:\Investec\TechTestC-\TechTest\AnyCompany\obj\Debug\AnyCompany.dll
+C:\Investec\TechTestC-\TechTest\AnyCompany\obj\Debug\AnyCompany.pdb
+C:\Investec\TechTestC-\TechTest\AnyCompany\bin\Debug\AnyCompany.dll.config
